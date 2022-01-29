@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    color: goldenrod;
+    background-color: lightskyblue;
+}
+header {
+    background-color:dodgerblue;
+    color: goldenrod;
+}
+h1 {
+    color: goldenrod;
+}
+footer {
+   background-color: dodgerblue; 
+   color: goldenrod;
+   }
+
+   nav{
+       margin: 15px;
+       padding: 30px;
+   }
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    margin: 10px;
+    color: goldenrod;
+    padding: 5px;
+} 
+.popular{
+    background-color: white;
+    color: royalblue;
+}
+.ok {
+    background-color: aqua;
+    color: goldenrod;
+}
+.no {
+    background-color: navy;
+    color: goldenrod;
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid navy;
+    border-radius: 10px;
+    
+}
+.so {
+    background-color: navy;
+    color: goldenrod;
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
+.bo {
+    background-color: navy;
+    color: goldenrod;
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid navy;
+    border-radius: 15px;
+
+}
